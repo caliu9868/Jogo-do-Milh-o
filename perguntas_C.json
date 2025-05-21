@@ -1,0 +1,102 @@
+[
+    {
+        "pergunta": "Qual desses países não faz parte da América do Sul?",
+        "alternativas": [
+            "a)",
+            "b)",
+            "c) Méxi",
+            "d)Equ"
+        ],
+        "resposta_correta": "C"
+    },
+    {
+        "pergunta": "Qual o país com a maior população do mundo?",
+        "alternativas": [
+            "a)",
+            "b) Itáli",
+            "c) In",
+            "d) J"
+        ],
+        "resposta_correta": "C"
+    },
+    {
+        "pergunta": "Qual desses times foi o Campeão da NBA no ano de 2024?",
+        "alternativas": [
+            "a)",
+            "b) Gol",
+            "c)",
+            "d) Milw"
+        ],
+        "resposta_correta": "C"
+    },
+    {
+        "pergunta": "Em que ano foi fundada a Sociedade Esportiva Palmeiras?",
+        "alternativas": [
+            "a) 1910",
+            "b) 1924",
+            "c) 1914",
+            "d) 1904"
+        ],
+        "resposta_correta": "C"
+    },
+    {
+        "pergunta": "Qual o nome do filme brasileiro que ganhou o Oscar de melhor filme internacional?",
+        "alternativas": [
+            "a)",
+            "b)",
+            "c)",
+            "d) O"
+        ],
+        "resposta_correta": "C"
+    },
+    {
+        "pergunta": "Qual o nome da série do universo Star Wars que tem um bebê Yoda?",
+        "alternativas": [
+            "a)",
+            "b) O",
+            "c) The M",
+            "d) The"
+        ],
+        "resposta_correta": "C"
+    },
+    {
+        "pergunta": "Qual o nome da primeira animação original do Cartoon Network feita no Brasil?",
+        "alternativas": [
+            "a) P",
+            "b) Menin",
+            "c) irmão",
+            "d)"
+        ],
+        "resposta_correta": "C"
+    },
+    {
+        "pergunta": "Cantor e compositor brasileiro, Diogo Nogueira ganhou fama nacional ao interpretar qual estilo musical?",
+        "alternativas": [
+            "a) Punk",
+            "b)",
+            "c) S",
+            "d) Músi"
+        ],
+        "resposta_correta": "C"
+    },
+    {
+        "pergunta": "Qual o documento que comprova que alguém é formado?",
+        "alternativas": [
+            "a)",
+            "b)",
+            "c)",
+            "d) Es"
+        ],
+        "resposta_correta": "C"
+    },
+    {
+        "pergunta": "Quem foi o criador da linguagem de programação Python?",
+        "alternativas": [
+            "a)",
+            "b) Steve Jo",
+            "c) Gui",
+            "d) Linus Torv"
+        ],
+        "resposta_correta": "C"
+    }
+]

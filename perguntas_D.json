@@ -1,0 +1,102 @@
+[
+    {
+        "pergunta": "Quantas unidades federativas o Brasil tem (estados e distrito federal)?",
+        "alternativas": [
+            "a) 30",
+            "b) 18",
+            "c) 26",
+            "d) 27"
+        ],
+        "resposta_correta": "D"
+    },
+    {
+        "pergunta": "Onde fica o município de Itaquaquecetuba?",
+        "alternativas": [
+            "a) Rio Gr",
+            "b)",
+            "c) Goiás",
+            "d) São Pulo"
+        ],
+        "resposta_correta": "D"
+    },
+    {
+        "pergunta": "Quais capitais do Brasil têm o mesmo nome do estado?",
+        "alternativas": [
+            "a)",
+            "b)",
+            "c)",
+            "d) São P"
+        ],
+        "resposta_correta": "D"
+    },
+    {
+        "pergunta": "Qual a nome da maior medalhista da história do Brasil nos jogos olímpicos?",
+        "alternativas": [
+            "a) J",
+            "b) Simone",
+            "c)",
+            "d) Re"
+        ],
+        "resposta_correta": "D"
+    },
+    {
+        "pergunta": "Qual a fruta preferida da Magali?",
+        "alternativas": [
+            "a) M",
+            "b) Melão",
+            "c)",
+            "d) Mel"
+        ],
+        "resposta_correta": "D"
+    },
+    {
+        "pergunta": "Qual o nome da trilogia de filmes baseada nos livros de J.R.R.Tolkien?",
+        "alternativas": [
+            "a) M",
+            "b) Ving",
+            "c) Homem",
+            "d) O Senhor"
+        ],
+        "resposta_correta": "D"
+    },
+    {
+        "pergunta": "Qual atriz ficou conhecida por usar um vestido branco em um filme lançado em 1955?",
+        "alternativas": [
+            "a) K",
+            "b) M",
+            "c)",
+            "d) M"
+        ],
+        "resposta_correta": "D"
+    },
+    {
+        "pergunta": "Qual desses animais não vive em regiões geladas?",
+        "alternativas": [
+            "a) Pinguim",
+            "b) Leão M",
+            "c) Mors",
+            "d) Elef"
+        ],
+        "resposta_correta": "D"
+    },
+    {
+        "pergunta": "Qual era a capital da Roma antiga?",
+        "alternativas": [
+            "a) Nov",
+            "b) Lis",
+            "c) Lon",
+            "d)"
+        ],
+        "resposta_correta": "D"
+    },
+    {
+        "pergunta": "Em que ano a Microsoft lançou a primeira versão do Windows?",
+        "alternativas": [
+            "a) 1980",
+            "b) 1990",
+            "c) 1972",
+            "d) 1985"
+        ],
+        "resposta_correta": "D"
+    }
+]

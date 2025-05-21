@@ -1,0 +1,102 @@
+[
+    {
+        "pergunta": "Qual o país com maior área territorial do mundo?",
+        "alternativas": [
+            "a) EU",
+            "b) Russi",
+            "c)",
+            "d)"
+        ],
+        "resposta_correta": "B"
+    },
+    {
+        "pergunta": "Qual o nome da capital da França?",
+        "alternativas": [
+            "a)",
+            "b) P",
+            "c)M",
+            "d) Lis"
+        ],
+        "resposta_correta": "B"
+    },
+    {
+        "pergunta": "Qual o apelido qua a Skatista Rayssa Leal recebeu aos sete anos de idade, após um vídeo dela viralizar na internet?",
+        "alternativas": [
+            "a) Fofinh",
+            "b) F",
+            "c) Prin",
+            "d) R"
+        ],
+        "resposta_correta": "B"
+    },
+    {
+        "pergunta": "Em que ano foi lançado o Show do Milhão?",
+        "alternativas": [
+            "a) 1975",
+            "b) 1999",
+            "c) 2009",
+            "d) 2021"
+        ],
+        "resposta_correta": "B"
+    },
+    {
+        "pergunta": "Qual é a identidade secreta do Batman?",
+        "alternativas": [
+            "a)",
+            "b)",
+            "c) Steve Rogers",
+            "d) Tony St"
+        ],
+        "resposta_correta": "B"
+    },
+    {
+        "pergunta": "Nos Desenhos animados, como se chama o cachorro medroso do Salsicha?",
+        "alternativas": [
+            "a) Floquinho",
+            "b) S",
+            "c) S",
+            "d) Rex"
+        ],
+        "resposta_correta": "B"
+    },
+    {
+        "pergunta": "Qual cartunista criou o menino maluquinho?",
+        "alternativas": [
+            "a) L",
+            "b) Zir",
+            "c) Henfil",
+            "d) M"
+        ],
+        "resposta_correta": "B"
+    },
+    {
+        "pergunta": "Como chamamos a manifestação de reprovação do público frente a um espetáculo?",
+        "alternativas": [
+            "a)",
+            "b) V",
+            "c) P",
+            "d)"
+        ],
+        "resposta_correta": "B"
+    },
+    {
+        "pergunta": "Qual desses dispositivos é usado para conectar um computador à internet?",
+        "alternativas": [
+            "a) Impressor",
+            "b) Rote",
+            "c) S",
+            "d) Te"
+        ],
+        "resposta_correta": "B"
+    },
+    {
+        "pergunta": "Bebida típica do Rio Grande do Sul:",
+        "alternativas": [
+            "a)",
+            "b)",
+            "c) Refriger",
+            "d)"
+        ],
+        "resposta_correta": "B"
+    }
+]

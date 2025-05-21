@@ -1,0 +1,102 @@
+[
+    {
+        "pergunta": "Qual o nome da capital do Brasil?",
+        "alternativas": [
+            "a)",
+            "b) São P",
+            "c) Rio",
+            "d)"
+        ],
+        "resposta_correta": "A"
+    },
+    {
+        "pergunta": "A Copa do Mundo de Futebol é realizada a cada quatro anos, a última edição foi realizada em 2022, sendo assim quando será a próxima?",
+        "alternativas": [
+            "a) 2026",
+            "b) 2028",
+            "c) 2030",
+            "d)2032"
+        ],
+        "resposta_correta": "A"
+    },
+    {
+        "pergunta": "Qual desses times foi o campeão da Copa do Brasil em 2023?",
+        "alternativas": [
+            "a) São P",
+            "b) Fl",
+            "c) P",
+            "d) S"
+        ],
+        "resposta_correta": "A"
+    },
+    {
+        "pergunta": "Quem foi o criador do universo Star Wars?",
+        "alternativas": [
+            "a) George Lu",
+            "b) Mestre Yo",
+            "c) Steven Spiel",
+            "d) T"
+        ],
+        "resposta_correta": "A"
+    },
+    {
+        "pergunta": "Quanto tempo dura o \"Blip\" que apaga metade da população com o estalar dos dedos de Thanos em os Vingadores da Marvel?",
+        "alternativas": [
+            "a) 5",
+            "b) 10",
+            "c) 2",
+            "d) 3"
+        ],
+        "resposta_correta": "A"
+    },
+    {
+        "pergunta": "Qual desses animais não é uma ave?",
+        "alternativas": [
+            "a) Lontr",
+            "b) M",
+            "c) P",
+            "d)"
+        ],
+        "resposta_correta": "A"
+    },
+    {
+        "pergunta": "Em que ano foi promulgada a constituição Federal do Brasil?",
+        "alternativas": [
+            "a) 1988",
+            "b) 1998",
+            "c)1950",
+            "d)2024"
+        ],
+        "resposta_correta": "A"
+    },
+    {
+        "pergunta": "Qual linguagem de programação é mais conhecida por seu uso na web para criar páginas dinâmicas?",
+        "alternativas": [
+            "a) J",
+            "b)",
+            "c) Python",
+            "d) We"
+        ],
+        "resposta_correta": "A"
+    },
+    {
+        "pergunta": "Qual o nome do coelho de pelúcia da Mônica?",
+        "alternativas": [
+            "a) S",
+            "b) R",
+            "c) Pooh",
+            "d) Tigrão"
+        ],
+        "resposta_correta": "A"
+    },
+    {
+        "pergunta": "Quem era o Deus Supremo na mitologia Grega?",
+        "alternativas": [
+            "a) Zeus",
+            "b) Mer",
+            "c)",
+            "d) Netuno"
+        ],
+        "resposta_correta": "A"
+    }
+]
